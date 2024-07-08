@@ -10,7 +10,11 @@
 }
 
 .head {
-    margin-top: 5p1x;
+    margin-top: 5px;
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    padding: 20px;
 }
 
 a {
@@ -272,7 +276,7 @@ li {
     clear: left;
     background-color: #fff;
    position: absolute;
-   top: 3970px;
+   top: 4000px;
    left: 20%;
    padding: 60px;
    width: 900px;
